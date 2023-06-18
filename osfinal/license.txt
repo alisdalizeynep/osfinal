@@ -1,0 +1,3 @@
+Bu proje açık kaynak olarak geliştirilmiştir ve Apache Lisansı 2.0 altında 
+dağıtılmaktadır. Lisans hakkında daha fazla bilgi için:
+https://www.apache.org/licenses/LICENSE-2.0.txt

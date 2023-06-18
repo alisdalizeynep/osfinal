@@ -1,0 +1,9 @@
+Bu proje, Apache License 2.0 altında dağıtılmaktadır ve
+aşağıdaki üçüncü taraf kütüphaneleri kullanmaktadır:
+- pymongo
+- confluent_kafka
+
+Her bir üçüncü taraf kütüphane, kendi lisansı altında dağıtılmaktadır. 
+Lütfen ilgili lisansları inceleyiniz.
+
+Daha fazla bilgi için, LICENSE dosyasını inceleyiniz.

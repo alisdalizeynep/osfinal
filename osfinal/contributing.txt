@@ -1,0 +1,20 @@
+Bu proje, açık kaynak bir projedir ve sizin katkılarınıza açıktır. 
+Projeyi geliştirmek, hataları düzeltmek, yeni özellikler eklemek veya 
+dokümantasyonu iyileştirmek için katkıda bulunabilirsiniz.
+
+---------------------- Adımlar ----------------------
+
+1. Proje deposunu klonlayın
+2. Geliştirme ortamınızı ayarlayın.
+3. Yeni bir branch oluşturun.
+4. Değişikliklerinizi yapın ve commit edin.
+5. Branch'inizi uzak sunucuya push edin.
+6. Bir pull talebi (pull request) açın ve değişikliklerinizi açıklayın.
+
+
+---------------------- Kurallar ----------------------
+
+Lütfen katkı yapmadan önce aşağıdaki kurallara uyduğunuzdan emin olun:
+- Kodunuz, projenin stil ve standartlarını takip etmelidir..
+- Gereksiz dosyaları veya bağımlılıkları projeye dahil etmeyin.
+- Diğer katılımcılara saygılı olun ve yapıcı bir dil kullanın.
